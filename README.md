@@ -5,7 +5,7 @@ A Java 2D casual arcade game
 
 A fast, **pixel-art 2D fighter** with arcade vibes. Think “Mario-style movement,” but instead of stage-clearing, it’s an **endless roguelike loop**: survive as long as you can, rack up KOs, and chase your high score.
 
-[![Watch the demo](https://img.youtu.be/Pre0s72SRNE.jpg)](https://youtu.be/Pre0s72SRNE) 
+[![Watch the demo](https://img.youtube.com/vi/Pre0s72SRNE/0.jpg)](https://youtu.be/Pre0s72SRNE)
 
 ---
 
